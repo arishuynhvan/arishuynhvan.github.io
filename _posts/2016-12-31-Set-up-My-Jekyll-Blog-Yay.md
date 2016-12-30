@@ -8,7 +8,7 @@ Set up the Jekyll blog  to plan for my projects during the #100DaysOfCode Challe
 ## How did I tackle this?
 I followed the instructions on [Smashing Magazine](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/) and fork the [Jekyll Now repo](https://github.com/barryclark/jekyll-now).
 Then I changed the _config.yml file, update the name of the forked repo, and set up the link to this blog with github pages.  
-I also set up the ruby workspace on C9.io for this forked repo so I don't have to worry about my OS.
+I also set up the ruby workspace on [c9.io](https://c9.io/) for this forked repo so I don't have to worry about my OS.
 
 ## Was it solved?
 No, the blog post is now missing on the local site launched in c9.io :( 
@@ -17,9 +17,9 @@ No, the blog post is now missing on the local site launched in c9.io :(
 [Cool sites powered by Jekyll](https://github.com/jekyll/jekyll/wiki/Sites)
 
 ## What else should I try next (or next time)?
-I need to figure out why my blog post is missing when launched locally on c9.io and get it appear here.
+I need to figure out why my blog post is missing when launched locally on [c9.io](https://c9.io/) and get it appear there.
 
-Next I can update your site name, avatar and other options using the _config.yml file in the root of mmy repository (shown below).
+Next I can update my site name, avatar and other options using the _config.yml file in the root of mmy repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
