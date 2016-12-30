@@ -11,12 +11,14 @@ Then I changed the _config.yml file, update the name of the forked repo, and set
 I also set up the ruby workspace on C9.io for this forked repo so I don't have to worry about my OS.
 
 ## Was it solved?
-Yup
+No, the blog post is now missing on the local site launched in c9.io :( 
 
 ## What did I learn?
 [Cool sites powered by Jekyll](https://github.com/jekyll/jekyll/wiki/Sites)
 
 ## What else should I try next (or next time)?
+I need to figure out why my blog post is missing when launched locally on c9.io and get it appear here.
+
 Next I can update your site name, avatar and other options using the _config.yml file in the root of mmy repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
