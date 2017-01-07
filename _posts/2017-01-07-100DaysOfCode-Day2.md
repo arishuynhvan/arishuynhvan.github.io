@@ -21,24 +21,36 @@ It is important for integration with automated publications on social media plat
 ### How to integrate Disqus:
 1. Login to disqus (or create a new account if needed)
 2. Find the section that says:
-```Ready to install Disqus?
+
+```
+Ready to install Disqus?
+
 It only takes a few minutes and gets you access to all features.
 ```
+
 Click on "Get Started"
 If it's not in the landing page, try the steps below:
-```Click on the Avatar (the icon/pic in the top right corner) => Choose "Home" from the dropdown menu
+
+```
+Click on the Avatar (the icon/pic in the top right corner) => Choose "Home" from the dropdown menu
 Click on the gear icon in the top right corner (after landing in the Home page of Disqus) => Choose "Add Disqus to Site" 
 The features page should show up so one can find the section above
 ```
+
 3. Choose "I want to install Disqus on my site"
 4. Enter the name of your website as prompted in this format:
-```example.com 
+
+```
+example.com 
 subdomain.example.com
 ```
 Wrong format examples:
-```http://www.example.com 
+
+```
+http://www.example.com 
 example.com/my-blog-name
 ```
+
 More on [troubleshooting here](https://help.disqus.com/customer/portal/articles/472007-i-m-receiving-the-message-%22we-were-unable-to-load-disqus-%22)
 5. Upon comleting the creation of Disqus installation by accepting the policy & selecting Jekyll platform, 
 find the "Universal Embed Code" in the installation instruction. Copy the entire code in section 1 only (2 and 3 are optional)
@@ -46,17 +58,15 @@ find the "Universal Embed Code" in the installation instruction. Copy the entire
 7. Go to `_includes\disqus.html` and add in the copied code (Universal Embed Cod) between`{% if site.disqus %}` and `{% endif %}`.
 Delete any other thing in the middle of these 2 lines if available
 8. Modify the md files of the posts expecting comments, or just modify the `_layouts\post.html` file if comments should be available for all posts as followed:
+
 ```
 ---
-
 layout: #whateverwasthere-nochange
-
 comments: true
-
 #otherproperties
-
 ---
 ```
+
 9. Double check if everything was fine on the blog site & follow the troubleshoot guide from Disqus otherwise
 
 # What else should I try next (or next time)?
