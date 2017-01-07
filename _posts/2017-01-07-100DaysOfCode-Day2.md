@@ -18,7 +18,7 @@ User story #3 was resolved but not #1 & #2
 RSS or Atom Feed are methods of tracking the contents of the blog with a summarised XML file. 
 It is important for integration with automated publications on social media platforms like Twitter, FB, etc.
 
-###How to integrate Disqus:
+### How to integrate Disqus:
 1. Login to disqus (or create a new account if needed)
 2. Find the section that says:
 '''Ready to install Disqus?
@@ -49,7 +49,7 @@ comments: true
 #otherproperties
 ---
 ```
-
+9. Double check if everything was fine on the blog site & follow the troubleshoot guide from Disqus otherwise
 
 # What else should I try next (or next time)?
 Finish up the Feed and automation
