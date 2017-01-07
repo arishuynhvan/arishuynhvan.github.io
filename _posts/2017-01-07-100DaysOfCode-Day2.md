@@ -7,6 +7,7 @@ Enhance the interface of my Jekyll Blog
 
 # How did I tackle this?
 Decide on user stories to implement:
+
 1. Viewers can follow and receive regular updates of my posts as they would like to
 2. Posts can be automatedly tweeted as soon as they are published
 3. Viewers can comment on my posts
