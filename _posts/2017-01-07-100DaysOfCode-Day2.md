@@ -19,8 +19,8 @@ RSS or Atom Feed are methods of tracking the contents of the blog with a summari
 It is important for integration with automated publications on social media platforms like Twitter, FB, etc.
 
 ### How to integrate Disqus:
-1. Login to disqus (or create a new account if needed)
-2. Find the section that says:
+- Login to disqus (or create a new account if needed)
+-  Find the section that says:
 
 ```
 Ready to install Disqus?
@@ -37,8 +37,9 @@ Click on the gear icon in the top right corner (after landing in the Home page o
 The features page should show up so one can find the section above
 ```
 
-3. Choose "I want to install Disqus on my site"
-4. Enter the name of your website as prompted in this format:
+- Choose "I want to install Disqus on my site"
+
+- Enter the name of your website as prompted in this format:
 
 ```
 example.com 
@@ -52,12 +53,13 @@ example.com/my-blog-name
 ```
 
 More on [troubleshooting here](https://help.disqus.com/customer/portal/articles/472007-i-m-receiving-the-message-%22we-were-unable-to-load-disqus-%22)
-5. Upon comleting the creation of Disqus installation by accepting the policy & selecting Jekyll platform, 
+
+- Upon comleting the creation of Disqus installation by accepting the policy & selecting Jekyll platform, 
 find the "Universal Embed Code" in the installation instruction. Copy the entire code in section 1 only (2 and 3 are optional)
-6. Go to the repo of the blog & add the Disqus username to `disqus` property in the `_config.yml` file
-7. Go to `_includes\disqus.html` and add in the copied code (Universal Embed Cod) between`{% if site.disqus %}` and `{% endif %}`.
+- Go to the repo of the blog & add the Disqus username to `disqus` property in the `_config.yml` file
+- Go to `_includes\disqus.html` and add in the copied code (Universal Embed Cod) between`{% if site.disqus %}` and `{% endif %}`.
 Delete any other thing in the middle of these 2 lines if available
-8. Modify the md files of the posts expecting comments, or just modify the `_layouts\post.html` file if comments should be available for all posts as followed:
+- Modify the md files of the posts expecting comments, or just modify the `_layouts\post.html` file if comments should be available for all posts as followed:
 
 ```
 ---
@@ -66,8 +68,7 @@ comments: true
 #otherproperties
 ---
 ```
-
-9. Double check if everything was fine on the blog site & follow the troubleshoot guide from Disqus otherwise
+- Double check if everything was fine on the blog site & follow the troubleshoot guide from Disqus otherwise
 
 # What else should I try next (or next time)?
 Finish up the Feed and automation
