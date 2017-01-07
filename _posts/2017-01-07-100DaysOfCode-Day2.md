@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: 100DaysOfCode - Day 2
 ---
 # What is the challenge today?
