@@ -16,6 +16,7 @@ Here are all the subjective opinions of a first-time user. There are things that
 3 ways of managing the tasks & communication of an organization (HQ, Functions & Projects) with great choices of key items like message board, discussion (camp fire), todos, event schedule, event checkins & file sharing
 
 These components are neatly arranged as shown below:
+
 ![Basecamp Dashboard](images/overview.png)
 
 The special highlights for me were:
