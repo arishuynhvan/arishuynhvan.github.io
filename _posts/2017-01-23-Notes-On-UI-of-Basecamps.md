@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes on the Interface of Basecamp from a First-Timer
+title: First-time Experience with Basecamp
 ---
 
 ## Basecamp
