@@ -1,3 +1,8 @@
+---
+layout: post
+title: Some Notes on the Interface of Basecamp from a First-Time User
+---
+
 #Basecamp
 
 This is a popular open-source & free project management tool that I've tried to use recently after Trello, Jira, GitHub Project, and a bunch of Todolist apps
@@ -26,6 +31,7 @@ For me, they provide a strong system for holding myself accountable and motivate
 
 ###My Assignments with Dates
 ![My Assignments with Dates](images/asgmtDates.png)
+
 Basically, it's an automatically generated list of to-dos from those I added in virtually everywhere fromt teams to projects, with the items well sorted in terms of date.
 
 This is greate way for me to keep track of what I need to work on without referring to individual boards
