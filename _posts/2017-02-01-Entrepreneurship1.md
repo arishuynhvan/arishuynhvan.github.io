@@ -3,7 +3,7 @@ layout: post
 title: A Personal Attempt at Entrepreneurship
 ---
 ## Context
-I've applied and enrolled myself in [Idea$]() 2017 competition organized by EDIC NUS. 
+I've enrolled myself in [Idea$](nusideas.firebaseapp.com) 2017 competition organized by EDIC NUS. 
 Having come up with an idea for a web app from a personal pain point as a foreign student, I decided to develop a product to solve that problem.
 As the competition aims to get students launch their own startups eventually, I saw no reason for not pushing my idea further for a future startup.
 
