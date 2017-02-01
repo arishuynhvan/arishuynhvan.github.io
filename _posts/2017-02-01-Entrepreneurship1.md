@@ -26,7 +26,6 @@ Below are these resources and my insights after following them through
 ### Naming My Startup
 
 1. [How to Pick a Perfect Name for Your Business or Startup](http://startupbros.com/how-to-pick-the-perfect-name-for-your-business-or-startup/)
-
 In its very first step, it directed me to the 2nd link.
 
 2. [Before Naming Your Business, Read this!](https://thenextweb.com/entrepreneur/2012/04/22/before-naming-your-startup-read-this/)
