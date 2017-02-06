@@ -84,7 +84,8 @@ Web-based projects with Free Code Camp
 - Wikimedia
 - Syslog-ng
 
-After all this planning, here's an update on today's coding progress
+After all this planning, here's an update on today's coding progress:
+
 ## Day 3
 So I took some time to venture in more dangerous zones of git. 
 
