@@ -61,10 +61,11 @@ Showcase:
 
 #### Front-end Web Development
 Web-based projects with Free Code Camp
-    - [Random Quote Machine](https://www.freecodecamp.com/challenges/build-a-random-quote-machine)
-    - [Local Weather](https://www.freecodecamp.com/challenges/show-the-local-weather)
-    - [Wikipedia Viewer](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer)
-    - [Twitchtv](https://www.freecodecamp.com/challenges/use-the-twitchtv-json-api)
+
+- [Random Quote Machine](https://www.freecodecamp.com/challenges/build-a-random-quote-machine)
+- [Local Weather](https://www.freecodecamp.com/challenges/show-the-local-weather)
+- [Wikipedia Viewer](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer)
+- [Twitchtv](https://www.freecodecamp.com/challenges/use-the-twitchtv-json-api)
     
     
 #### Android App
@@ -91,7 +92,8 @@ So I took some time to venture in more dangerous zones of git.
 
 ### Git
 Firstly, I restarted my blog workspace in c9.io and realized I have changed my entire repo without upating it.
-This error: `fatal: refusing to merge unrelated histories` showed up.Thus, I started with `git pull ----allow-unrelated-histories` [Source: StackOverflow](http://stackoverflow.com/questions/37937984/git-refusing-to-merge-unrelated-histories)
+This error: `fatal: refusing to merge unrelated histories` showed up.Thus, I started with `git pull --allow-unrelated-histories` 
+([StackOverflow](http://stackoverflow.com/questions/37937984/git-refusing-to-merge-unrelated-histories))
 
 Secondly, I created a new branch for redesigning my landing page. I happened to commit the changes into this branch without updating it with master first.
 So, I followed the instructions [here](http://stackoverflow.com/questions/7929369/how-to-rebase-local-branch-with-remote-master) and run `git rebase master` to update my branch with all the latest changes in master branch. It is definitely much cleaner
@@ -106,10 +108,12 @@ but it will give me a good opportunity to practice rebase next.
 As my blog has its template from the [Jekyll Now Project](http://www.jekyllnow.com/), the only way I can deploy it locally is by running `jekyll serve`.
 
 However, the default ports are not servers for c9.io. Thus, I had to add the snippet below into `_config.yml` file.
+
 ```
-# deployment
+#deployment
 host: 0.0.0.0
 port: 8080
 ```
+
 The reason why I use C9.io workspace for my blog is because this jekyll project is still ruby-based although I wouldn't need much ruby to set it up. 
 Honestly speaking, setting up a ruby project on Windows is a huge pain, so c9.io or any other cloud-based IDE is perfect.
