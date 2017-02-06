@@ -15,6 +15,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Flags below are optional
 #
 
+# deployment
+host: 0.0.0.0
+port: 8080
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
