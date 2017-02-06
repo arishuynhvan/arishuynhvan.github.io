@@ -2,6 +2,7 @@
 My super simple basic blog about learning to code
 
 # Sprint 1: 6 - 10 Feb
+- [ ] Design logo for blog
 - [ ] Redesign my landing page on Photoshop (hi-res wireframe)
 - [ ] Code landing page on Codepen
 - [ ] Implement it into index.html
