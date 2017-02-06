@@ -26,4 +26,4 @@ My super simple basic blog about learning to code
 - [ ] Search bar
 - [ ] Shareable on social media sites <sup>1</sup>
 
-Reference: [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)
+Reference: <sup>1</sup> [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)
