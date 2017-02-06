@@ -29,6 +29,11 @@ Things I really want to have in my brand:
 Thus, I've come up with a few project lists:
 
 #### Portforlio
+Resume & Cover Letter -> About Page:
+
+- Most likely will use [JSON Resume](https://jsonresume.org/) to generate the HTML code
+- Suitable theme: [elegant](http://themes.jsonresume.org/theme/elegant)
+
 Blog about:
 
 - Algorithm solutions
@@ -117,3 +122,7 @@ port: 8080
 
 The reason why I use C9.io workspace for my blog is because this jekyll project is still ruby-based although I wouldn't need much ruby to set it up. 
 Honestly speaking, setting up a ruby project on Windows is a huge pain, so c9.io or any other cloud-based IDE is perfect.
+
+### Theme Revamp
+I attempted to change the theme of Jekyll Now to available Jekyll Theme but failed to. When I attempted to change the entire theme to [Mimimal Mistakes](https://github.com/mmistakes/minimal-mistakes)
+by replacing all but posts with the files from the repo, installing gem & building jekyll, the page couldn't be loaded properly :(
