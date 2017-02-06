@@ -6,6 +6,7 @@ My super simple basic blog about learning to code
 - [ ] Code landing page on Codepen
 - [ ] Implement it into index.html
 - [ ] Migrate the current index.html to blog.html
+- [ ] Set up share buttons (Twitter, Facebook, G+)
 
 # Backlog
 - [ ] Redesign my theme
