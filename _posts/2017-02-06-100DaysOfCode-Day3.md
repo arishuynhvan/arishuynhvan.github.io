@@ -13,6 +13,7 @@ Every day, the standup time will be 15 minutes for writing the log & posts for l
 
 
 ## Goals
+
 ### Personal Brand
 It's essential to establish a personal brand. I have a lot of ideas floating around in my mind, but currently find it hard to
 incorporate them into a unified theme for my site design
@@ -30,24 +31,24 @@ Thus, I've come up with a few project lists:
 #### Portforlio
 Blog about:
 
-    - Algorithm solutions
-    - Front-end learning journey
-    - Android app development trainings
-    - User experience & graphical design practices
-    - Data science self-study
-    - Neuroscience topics
-    - Language learning journey (English, French, German, Chinese, Italian, Spanish, Korean)
-    - Software engineering practices & experience
-    - Startup ideas
-    - Entrepreneurship journey (focus: social enterprise)
-    - Volunteer experience
-    - [Outreachy](https://wiki.gnome.org/Outreachy) & [GSoC](https://developers.google.com/open-source/gsoc/timeline) Application 
-    - Open-source Project Contribution from a newbie's perspective
+- Algorithm solutions
+- Front-end learning journey
+- Android app development trainings
+- User experience & graphical design practices
+- Data science self-study
+- Neuroscience topics
+- Language learning journey (English, French, German, Chinese, Italian, Spanish, Korean)
+- Software engineering practices & experience
+- Startup ideas
+- Entrepreneurship journey (focus: social enterprise)
+- Volunteer experience
+- [Outreachy](https://wiki.gnome.org/Outreachy) & [GSoC](https://developers.google.com/open-source/gsoc/timeline) Application 
+- Open-source Project Contribution from a newbie's perspective
 
 Showcase:
     
-    - Project thumbnails
-    - Tutorials
+- Project thumbnails
+- Tutorials
 
 #### Design Projects
 - Personal Logo
