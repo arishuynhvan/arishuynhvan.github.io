@@ -5,7 +5,7 @@ My super simple basic blog about learning to code
 - [ ] Redesign my landing page on Photoshop (hi-res wireframe)
 - [ ] Code landing page on Codepen
 - [ ] Implement it into index.html
-- [ ] Migrate the current index.html to blog.html
+- [x] Migrate the current index.html to blog.html
 - [ ] Set up share buttons (Twitter, Facebook, G+)
 
 # Backlog
@@ -18,9 +18,11 @@ My super simple basic blog about learning to code
 - [ ] Analytics
 
 ### New
-- [ ] Post thumbnails
+- [ ] Post thumbnails <sup>1</sup>
 - [ ] Project Gallery
 - [ ] Add a Feed (RSS or Atom) and automated updates for new posts on some social media site (Twitter/FB)
 - [ ] Coding music
 - [ ] Tags for Posts
 - [ ] Search bar
+
+Reference: [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)
