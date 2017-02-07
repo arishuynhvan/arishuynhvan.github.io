@@ -9,6 +9,7 @@ title: 100DaysOfCode Day 4
 Build a Resume for About Page with JSON Resume
 
 ### Study
+
 #### CS2103
 Tutorial 3 & 4
 
