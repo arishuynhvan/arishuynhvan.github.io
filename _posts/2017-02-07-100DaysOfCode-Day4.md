@@ -14,12 +14,13 @@ Build a Resume for About Page with JSON Resume
 Tutorial 3 & 4
 
 #### MITx Python
-Assignment 3
-
-### The Challenge
+Assignment 3 - . More details in the post [180DaysOfDataScience - Day 1]()
 
 
 #### Data Science - General Assembly
+Learning X & Y with Z instructors. More details in the post [180DaysOfDataScience - Day 1]()
+
+### The Challenge
 
 
 ## How did I tackle this?
