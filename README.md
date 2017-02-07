@@ -11,6 +11,10 @@ My super simple basic blog about learning to code
 
 # Backlog
 - [ ] Redesign my theme
+    - [ ] Drop down menu for navigation bar
+    - [ ] Fonts
+    - [ ] Logo
+    - [ ] Blog Post Preview
 
 ## Features
 ### Jekyll Now
