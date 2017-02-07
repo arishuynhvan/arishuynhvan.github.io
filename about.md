@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Huynh Van Tu An
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Welcome to the lair of a humanistic & social learning techie! Here you may find crude drafts from a young girl's learning journey to empathize, design, code & curate
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[arishuynhvan@gmail.com](mailto:arishuynhvan@gmail.com)
