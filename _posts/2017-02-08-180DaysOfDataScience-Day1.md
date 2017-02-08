@@ -3,7 +3,7 @@ layout: post
 title: 180DaysOfDataScience Day 1
 ---
 
-## What is 180 Days of DataScience?
+## What is 180 Days of DataScience (180DoDS)?
 Based on the Quora answer by Mr. Thia Kaixin about [becoming a datascientist without a PhD](https://www.quora.com/How-do-I-become-a-data-scientist-without-a-PhD/answer/Thia-Kai-Xin), 
 I have decided to follow his 66 mini-hell formula. However, the name is too daunting for a scaredy cat like me, I changed the title to feel more trendy & encouraging.
 
