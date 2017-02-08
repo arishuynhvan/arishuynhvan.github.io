@@ -10,3 +10,6 @@ node_modules
 package.json
 .wakatime.log
 .wakatime.cfg
+jsonresume
+_posts
+images/_posts
