@@ -40,4 +40,5 @@ My super simple basic blog about learning to code
 Reference: 
 
 <sup>1</sup> [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)
+
 <sup>2</sup> [JSONResume Website](https://jsonresume.org/) & [repo](https://github.com/jsonresume/resume-website)
