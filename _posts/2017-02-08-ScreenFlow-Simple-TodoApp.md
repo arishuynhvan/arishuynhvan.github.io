@@ -37,7 +37,7 @@ so one may refer to that resource before continuing to read on with my tutorial.
 
 Please check if your app looks like below before continuing:
 
-![DodingDONE v0.0.1 Demo](/images/dodingDONE-v0.1.0.gif)
+![DodingDONE v0.0.1 Demo](/images/dodingDONE-v0.0.1.gif)
 
 ## Approach
 
@@ -52,6 +52,7 @@ Please check if your app looks like below before continuing:
 
 
 ## What's next?
+I have some future directions for the DodingDONE Project and my mobile dev journey too :)
 
 ### DodingDONE Project
 
