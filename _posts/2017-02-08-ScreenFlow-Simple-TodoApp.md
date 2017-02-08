@@ -24,7 +24,7 @@ Thus, I have created this this walkthrough tutorial to record my solution approa
 - User can tap a todo item in the list and bring up an edit screen for the todo item and then have any changes to the text reflected in the todo list.
 - User can persist todo items and retrieve them properly on app restart.
 
-![DodingDone v0.1.0 Demo](/images/dodingDONE-v0.1.0.gif)
+![DodingDone v0.1.0 Demo](/images/_posts/dodingDONE-v0.1.0.gif)
 
 The first 2 features are already guided in details in Codepath's tutorial #3 [Walkthrough: Build the TodoApp in Android Studio](https://docs.google.com/presentation/d/15JnmfmFa0hJOEkBhG_TeymChLzDzpOTJvBlOj29A9fY/edit?usp=sharing) and [video](https://vimeo.com/72475810),
 so one may refer to that resource before continuing to read on with my tutorial.
@@ -38,7 +38,7 @@ so one may refer to that resource before continuing to read on with my tutorial.
 
 Please check if your app looks like below before continuing:
 
-![DodingDONE v0.0.1 Demo](/images/dodingDONE-v0.0.1.gif)
+![DodingDONE v0.0.1 Demo](/images/_posts/dodingDONE-v0.0.1.gif)
 
 ## Approach
 
