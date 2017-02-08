@@ -12,6 +12,7 @@ My super simple basic blog about learning to code
 # Backlog
 - [ ] Redesign my theme
     - [ ] Drop down menu for navigation bar
+    - [ ] Responsive menu bar with all tabs shrink into hidden side menu <sup>2</sup>
     - [ ] Fonts
     - [ ] Logo
     - [ ] Blog Post Preview
@@ -36,3 +37,4 @@ My super simple basic blog about learning to code
 Reference: 
 
 <sup>1</sup> [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)
+<sup>2</sup> [JSONResume Website](https://jsonresume.org/) & [repo](https://github.com/jsonresume/resume-website)
