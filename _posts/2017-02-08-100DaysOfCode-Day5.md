@@ -12,10 +12,10 @@ title: 100DaysOfCode Day 5
 Move my descriptions from `_config.yml` (where it is treated as value to the variable `site.descriptions`) to `default.html` file
 
 ### Android Screen Flow Tutorial
-I've finished writing the blog post on the [basic of screen flow for a todo app](/2017-02-08-ScreenFlow-Simple-TodoApp/) 
+I've finished writing the blog post on the [basic of screen flow for a todo app](/ScreenFlow-Simple-TodoApp/) 
 
 ### Wakatime Tracking in c9.io
-The problem was mostly solved with the manual approach in [yesterday blog](/2017-02-08-100DaysOfCode-Day4/), but the time is not tracked properly,
+The problem was mostly solved with the manual approach in [yesterday blog](/100DaysOfCode-Day4/), but the time is not tracked properly,
 unless I work in debug mode (`?debug=2` is appended to the end of the workspace url)
 
 ## What did I learn?
