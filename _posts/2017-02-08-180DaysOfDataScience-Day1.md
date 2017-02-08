@@ -22,9 +22,6 @@ Since Python is one of the most popular languages for data analysis & visualizat
 Today, I work on Assignment 3 - .
 
 
-#### Data Science - General Assembly
-Learning X & Y with Z instructors.
-
 ### The Challenge
 
 
