@@ -17,6 +17,8 @@ My super simple basic blog about learning to code
     - [ ] Logo
     - [ ] Blog Post Preview
     - [ ] Resume/ Cover Letter About page
+    - [ ] Draft posts
+    - [ ] Admin signin view - drafts are visible (all posts are still visible on repo)
 
 
 ## Features
