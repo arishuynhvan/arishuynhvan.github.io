@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction to Screen Flow - Minimal Todolist App
+title: Intro to Screen Flow - Minimal Todolist App
 ---
 
 ## Motivation
