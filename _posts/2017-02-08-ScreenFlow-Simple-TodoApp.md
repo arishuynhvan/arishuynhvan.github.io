@@ -41,4 +41,19 @@ Please check if your app looks like below before continuing:
 
 ## Approach
 
+### Key Concepts
+
+### Pseudo Code
+
+### Implementation
+
+
+## Reflection
+
+
+## What's next?
+### DodingDONE Project
+
+### My Mobile Development Journey
+
 

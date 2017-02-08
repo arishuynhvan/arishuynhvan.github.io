@@ -19,6 +19,7 @@ My super simple basic blog about learning to code
     - [ ] Resume/ Cover Letter About page
     - [ ] Draft posts
     - [ ] Admin signin view - drafts are visible (all posts are still visible on repo)
+    - [ ] Color & font for short code markdown ("`").
 
 
 ## Features
