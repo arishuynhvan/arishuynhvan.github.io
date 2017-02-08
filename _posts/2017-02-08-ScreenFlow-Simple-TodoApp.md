@@ -36,7 +36,11 @@ so one may refer to that resource before continuing to read on with my tutorial.
 
 # STOP!
 
-Please check if your app looks like below before continuing:
+Please check if your app has the following features (demo below) before continuing:
+
+1. User can add new item to the list
+2. User can delete existing items in the list
+3. User can retrieve the exact same items from the previous session upon reopening the app (data persistence).
 
 ![DodingDONE v0.0.1 Demo](/images/posts/dodingDONE-v0.0.1.gif)
 
