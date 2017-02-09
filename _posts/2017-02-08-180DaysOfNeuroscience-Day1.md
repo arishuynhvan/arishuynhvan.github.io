@@ -8,6 +8,7 @@ Based on the Quora answer by Mr. Thia Kaixin about [becoming a datascientist wit
 I have decided to apply his 66 mini-hell formula as described on [today's 180DoDS blog post](/180DaysOfDataScience-Day1/) to gauge my interest in Neuroscience. 
 
 ## What did I learn today?
+
 ### Bioelectricity
 I've finished the tutorial of BN4402 Electrophysiology for this week today. It was really hard ...
 
