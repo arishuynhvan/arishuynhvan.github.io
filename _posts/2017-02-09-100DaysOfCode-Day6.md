@@ -22,4 +22,6 @@ I worked on this [feature](github-repo-branch-url) for the Codepath Todolist App
 ## What's next?
 
 ## What was my contribution to the community today?
-I recorded my [1st experience with Progressive Web App](/pwa-reflection/) and included some resources that I found really important out of tons of links on the web
+I blogged about my [1st experience with Progressive Web App](/pwa-reflection/) and included some resources that I found really important out of tons of links on the web.
+
+Also, I have written about my experience with various [remote job listing sites](/start-freelance/)
