@@ -32,7 +32,7 @@ These sites are displayed in the order of personal preference.
 13. [Authentic Jobs](https://authenticjobs.com/)
 14. [AngelList Startup Jobs](https://angel.co/)
 15. [Dribble - Jobs for Designers](https://dribbble.com/jobs?location=Anywhere)
-16. [remote | OK](https://remoteok.io/)
+16. [remote OK](https://remoteok.io/)
 17. [stackoverflow Jobs](http://stackoverflow.com/jobs?med=site-ui&ref=jobs-tab)
 18. [Freelancer](https://www.freelancer.com/)
 19. [Fiverr](https://www.fiverr.com/)
