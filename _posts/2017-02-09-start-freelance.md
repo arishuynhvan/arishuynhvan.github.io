@@ -20,4 +20,4 @@ title: An Attempt at Freelance
 
 1. [flexjobs](https://www.flexjobs.com/Pricing.aspx)
 
-![flexjob subscription plans (9 Feb 17)](images/posts/flexjobs_pricing.png)
+![flexjob subscription plans (9 Feb 17)](/images/posts/flexjobs_pricing.png)
