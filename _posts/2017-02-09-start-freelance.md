@@ -17,7 +17,7 @@ These sites are displayed in the order of personal preference.
 
 #### Free
 
-1. [Jobspresso](https://jobspresso.co/browsejobs/] - Relatively updated job listings, but follow their Twitter @jobspresso for daily fresh job updates. The job listing is very friendly with upfront information of posting date & geographic criteria (super important for international candidate like myself)
+1. [Jobspresso](https://jobspresso.co/browsejobs/) - Relatively updated job listings, but follow their Twitter @jobspresso for daily fresh job updates. The job listing is very friendly with upfront information of posting date & geographic criteria (super important for international candidate like myself)
 2. [WeWorkRemotely](https://weworkremotely.com/) - could be limited to certain citizenship (US)
 3. [Working Nomads](https://www.workingnomads.co/jobs) - highly up-to-date job board with nearly 0 posts lasting for more than a month. Jobs are mainly in the (software) development category, though jobs in business, design, & other categories are also adequately available. 
 4. [Remotive](http://jobs.remotive.io/) - [charge for community support on slack](https://www.workingnomads.co/jobs). Job postings feel like web scraping results since all links lead to external sites, with a common parameter in the url: `?utm_medium=website&utm_source=jobs.remotive.io`
