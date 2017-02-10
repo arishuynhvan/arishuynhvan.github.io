@@ -21,6 +21,8 @@ My super simple basic blog about learning to code
     - [ ] Admin signin view - drafts are visible (all posts are still visible on repo)
     - [ ] Color & font for short code markdown ("`").
 
+Great reference for minimalistic, responsive theme: [Technology Advice](http://technologyadvice.com/)
+
 
 ## Features
 ### Jekyll Now
