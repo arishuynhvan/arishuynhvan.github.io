@@ -11,6 +11,7 @@ title: An Attempt at Remote Freelance
 ### Guides
 
 1. [skillcrush's Remote Job You Love Guide](https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2016/10/RemoteJobYouLove_Guide_updated.pdf)
+2. How to establish personal brand for starting a business on a shoo-string budget with the Webminar ["Bootstrap Marketing Master Class" by Matthew Capala](http://accesssiliconvalley.net/bootstrap-marketing-masterclass-matthew-capala/)
 
 ### Job boards
 These sites are displayed in the order of personal preference. 
@@ -45,3 +46,9 @@ These sites are displayed in the order of personal preference.
 1. [flexjobs](https://www.flexjobs.com/Pricing.aspx)
 
 ![flexjob subscription plans (9 Feb 17)](/images/posts/flexjobs_pricing.png)
+
+### Plan
+
+### Progress
+
+### Results
