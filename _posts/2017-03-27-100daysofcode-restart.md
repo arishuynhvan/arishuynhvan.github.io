@@ -65,4 +65,4 @@ After this step, usually Gihub will automatically add/modify CNAME file to the r
 4. Sign into the control panel of the custom domain with username & password
 5. Find the setting for managing DNS (it can be "Manage DNS" or "Advanced DNS")
 6. Add a CName record with "www" as the host and your "username.github.io" (where this username is github username) as the value. Save this record.
-7. Now launch the site at the custom domain to test if it works.
+7. Now launch the site at the custom domain to test if GitHub page has been properly linked with the custom domain
