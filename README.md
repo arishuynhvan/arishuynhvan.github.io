@@ -3,13 +3,19 @@ My super simple basic blog about learning to code
 
 # Sprint 2: 28 Mar - 7 Apr
 
-# Sprint 1: 6 - 10 Feb
+- [ ] Fix about.html errors of font responsiveness 
+- [ ] Migrate current about.html to index.html
+- [ ] Fix the landing page errors
 - [ ] Design logo for blog
+- [ ] Set up share buttons (Twitter, Facebook, G+) <sup>1</sup>
+
+# Sprint 1: 6 - 10 Feb
+
 - [x] Redesign my landing page (hi-res wireframe)
 - [x] Code landing page on Codepen
 - [x] Implement it into about.html or index.html
 - [x] Migrate the current index.html to blog.html
-- [ ] Set up share buttons (Twitter, Facebook, G+) <sup>1</sup>
+
 
 # Backlog
 - [ ] Redesign my theme
@@ -25,6 +31,7 @@ My super simple basic blog about learning to code
 - [ ] Fix about.html errors of font responsiveness 
 - [ ] Migrate current about.html to index.html
 - [ ] Fix the landing page errors
+- [ ] User-friendly blog posting dashboard
 
 Great reference for minimalistic, responsive theme: [Technology Advice](http://technologyadvice.com/)
 
