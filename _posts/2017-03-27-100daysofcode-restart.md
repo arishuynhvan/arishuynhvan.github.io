@@ -10,13 +10,14 @@ Yet, I don't want to give up this training, so I'll try again
 
 ## Structured programs to follow
 
-30 days, 30 sites - [techwithtris]()
+30 days, 30 sites - [techwithtris](http://www.techwithtris.com/)
 
-[30daysofjavascript]() - wesbos
+[30 days Vanilla JS coding challenge](https://javascript30.com/) - wesbos
 
-[dailyUI]()
+[freecodecamp](https://www.freecodecamp.com)
 
-[freecodecamp]()
+[Daily UI Design Challenge](http://www.dailyui.co/)
+
 
 ## Side projects
 
@@ -27,8 +28,8 @@ Charchawale for [makerwala.in](http://makerwala.in/)
 
 ### What I've achieved
 
-<p data-height="265" data-theme-id="0" data-slug-hash="RpBXBz" data-default-tab="html,result" data-user="arishuynhvan" data-embed-version="2" data-pen-title="Freelance Portfolio" class="codepen">See the Pen <a href="http://codepen.io/arishuynhvan/pen/RpBXBz/">Freelance Portfolio</a> by Aris Huynh (<a href="http://codepen.io/arishuynhvan">@arishuynhvan</a>) on <a href="http://codepen.io">CodePen</a>.</p>
-<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+<iframe height='265' scrolling='no' title='Freelance Portfolio' src='//codepen.io/arishuynhvan/embed/RpBXBz/?height=265&theme-id=0&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/arishuynhvan/pen/RpBXBz/'>Freelance Portfolio</a> by Aris Huynh (<a href='http://codepen.io/arishuynhvan'>@arishuynhvan</a>) on <a href='http://codepen.io'>CodePen</a>.
+</iframe>
 
 - I revamped my about page in codepen by following the [bootstrap tutorial on w3school for company]()
 - I also set up my own free domain with .tech using my student (.edu) email. It's free for a year, so it's good enough for me to use now
