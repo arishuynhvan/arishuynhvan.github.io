@@ -28,10 +28,10 @@ Charchawale for [makerwala.in](http://makerwala.in/)
 
 ### What I've achieved
 
-<iframe height='265' scrolling='no' title='Freelance Portfolio' src='//codepen.io/arishuynhvan/embed/RpBXBz/?height=265&theme-id=0&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/arishuynhvan/pen/RpBXBz/'>Freelance Portfolio</a> by Aris Huynh (<a href='http://codepen.io/arishuynhvan'>@arishuynhvan</a>) on <a href='http://codepen.io'>CodePen</a>.
+<iframe height='400' scrolling='no' title='Freelance Portfolio' src='//codepen.io/arishuynhvan/embed/RpBXBz/?height=265&theme-id=0&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/arishuynhvan/pen/RpBXBz/'>Freelance Portfolio</a> by Aris Huynh (<a href='http://codepen.io/arishuynhvan'>@arishuynhvan</a>) on <a href='http://codepen.io'>CodePen</a>.
 </iframe>
 
-- I revamped my about page in codepen by following the [bootstrap tutorial on w3school for company]()
+- I revamped my about page in codepen by following the [bootstrap tutorial on w3schools for company website](https://www.w3schools.com/bootstrap/bootstrap_theme_company.asp)
 - I also set up my own free domain with .tech using my student (.edu) email. It's free for a year, so it's good enough for me to use now
 
 
@@ -49,7 +49,7 @@ Charchawale for [makerwala.in](http://makerwala.in/)
 - Splitting rows for responsive display of big & smal screen sizes
 - How to set up free email with my free domain & direct it to my gmail account
 - How to link my domain to Github pages
-- How to get a [free .edu email]()
+- How to get a [free .edu email](https://www.quora.com/How-can-I-get-an-edu-email-without-being-in-school)
 
 #### More on how to link my free .tech domain with Github pages
 
