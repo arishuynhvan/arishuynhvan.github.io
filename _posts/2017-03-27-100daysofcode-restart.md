@@ -51,7 +51,8 @@ Charchawale for [makerwala.in](http://makerwala.in/)
 
 Adapted from [Namecheap article](https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages)
 
-1. Go to settings ![github-repo-setting](images/posts/github-repo-setting.
+1. Go to settings 
 
-)
+![github-repo-setting](images/posts/github-repo-setting.PNG)
+
 2. 
