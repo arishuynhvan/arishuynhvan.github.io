@@ -55,6 +55,9 @@ Great reference for minimalistic, responsive theme: [Technology Advice](http://t
 - [ ] Shareable on social media sites <sup>1</sup>
 - [ ] 100% Accessible
 - [ ] Progressive
+- [ ] Onsite login & post creation
+
+
 Reference: 
 
 <sup>1</sup> [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)
