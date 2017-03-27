@@ -27,7 +27,10 @@ Charchawale for [makerwala.in](http://makerwala.in/)
 
 ### What I've achieved
 
-- I revamped my [about page in codepen]() by following the [bootstrap tutorial on w3school for company]()
+<p data-height="265" data-theme-id="0" data-slug-hash="RpBXBz" data-default-tab="html,result" data-user="arishuynhvan" data-embed-version="2" data-pen-title="Freelance Portfolio" class="codepen">See the Pen <a href="http://codepen.io/arishuynhvan/pen/RpBXBz/">Freelance Portfolio</a> by Aris Huynh (<a href="http://codepen.io/arishuynhvan">@arishuynhvan</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+
+- I revamped my about page in codepen by following the [bootstrap tutorial on w3school for company]()
 - I also set up my own free domain with .tech using my student (.edu) email. It's free for a year, so it's good enough for me to use now
 
 
