@@ -1,6 +1,8 @@
 # T.An.Dev
 My super simple basic blog about learning to code
 
+# Sprint 2: 28 Mar - 7 Apr
+
 # Sprint 1: 6 - 10 Feb
 - [ ] Design logo for blog
 - [x] Redesign my landing page (hi-res wireframe)
