@@ -28,7 +28,7 @@ Charchawale for [makerwala.in](http://makerwala.in/)
 
 ### What I've achieved
 
-<iframe  scrolling='no' title='Freelance Portfolio' src='//codepen.io/arishuynhvan/embed/RpBXBz/?height=265&theme-id=0&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='height: 50em;'>See the Pen <a href='http://codepen.io/arishuynhvan/pen/RpBXBz/'>Freelance Portfolio</a> by Aris Huynh (<a href='http://codepen.io/arishuynhvan'>@arishuynhvan</a>) on <a href='http://codepen.io'>CodePen</a>.
+<iframe height='600' scrolling='no' title='Freelance Portfolio' src='//codepen.io/arishuynhvan/embed/RpBXBz/?height=265&theme-id=0&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width:100%;'>See the Pen <a href='http://codepen.io/arishuynhvan/pen/RpBXBz/'>Freelance Portfolio</a> by Aris Huynh (<a href='http://codepen.io/arishuynhvan'>@arishuynhvan</a>) on <a href='http://codepen.io'>CodePen</a>.
 </iframe>
 
 
@@ -38,6 +38,7 @@ Charchawale for [makerwala.in](http://makerwala.in/)
 
 ### What's next?
 
+- Change the units of fonts on about page back to em or px according to w3schools tutorial since vw is very horrible for full page view
 - Update the form & buttons in my about page for collecting real email addresses & send clients' emails to me
 - Update my website titles for this repo (new title: T.An Elegant Tech)
 - Major revamp for the structure of this site
