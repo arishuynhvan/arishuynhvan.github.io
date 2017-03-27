@@ -58,7 +58,7 @@ Adapted from [Namecheap article](https://www.namecheap.com/support/knowledgebase
 2. Scroll down to GitHub Pages section
 3. Type in your custom domain in the Custom domain textbox and hit Save (remember the "www")
 
-![github-custom-domain](images/posts/github-custom-domain.PNG)
+![github-custom-domain](images/posts/github-custom-domain.png)
 
 After this step, usually Gihub will automatically add/modify CNAME file to the root of your Github repo. Check if this CNAME exists. Then, check if the first line is your custom domain.
 
