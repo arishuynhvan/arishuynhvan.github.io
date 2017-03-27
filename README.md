@@ -4,7 +4,7 @@ My super simple basic blog about learning to code
 # Sprint 2: 28 Mar - 7 Apr
 
 - [ ] Fix about.html errors of font responsiveness 
-- [ ] Migrate current about.html to index.html
+- [x] Migrate current about.html to index.html
 - [ ] Fix the landing page errors
 - [ ] Design logo for blog
 - [ ] Set up share buttons (Twitter, Facebook, G+) <sup>1</sup>
