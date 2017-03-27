@@ -32,6 +32,9 @@ My super simple basic blog about learning to code
 - [ ] Migrate current about.html to index.html
 - [ ] Fix the landing page errors
 - [ ] User-friendly blog posting dashboard
+- [ ] Progressive enhancement for mobile platforms
+- [ ] Test against Accessibility checklist
+- [ ] Enhance accessibility 
 
 Great reference for minimalistic, responsive theme: [Technology Advice](http://technologyadvice.com/)
 
@@ -50,7 +53,8 @@ Great reference for minimalistic, responsive theme: [Technology Advice](http://t
 - [ ] Tags/Categories for Posts <sup>1</sup>
 - [ ] Search bar
 - [ ] Shareable on social media sites <sup>1</sup>
-
+- [ ] 100% Accessible
+- [ ] Progressive
 Reference: 
 
 <sup>1</sup> [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)
