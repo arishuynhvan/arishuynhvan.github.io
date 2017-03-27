@@ -3,9 +3,9 @@ My super simple basic blog about learning to code
 
 # Sprint 1: 6 - 10 Feb
 - [ ] Design logo for blog
-- [ ] Redesign my landing page on Photoshop (hi-res wireframe)
-- [ ] Code landing page on Codepen
-- [ ] Implement it into index.html
+- [x] Redesign my landing page (hi-res wireframe)
+- [x] Code landing page on Codepen
+- [x] Implement it into about.html or index.html
 - [x] Migrate the current index.html to blog.html
 - [ ] Set up share buttons (Twitter, Facebook, G+) <sup>1</sup>
 
@@ -20,6 +20,9 @@ My super simple basic blog about learning to code
     - [ ] Draft posts
     - [ ] Admin signin view - drafts are visible (all posts are still visible on repo)
     - [ ] Color & font for short code markdown ("`").
+- [ ] Fix about.html errors of font responsiveness 
+- [ ] Migrate current about.html to index.html
+- [ ] Fix the landing page errors
 
 Great reference for minimalistic, responsive theme: [Technology Advice](http://technologyadvice.com/)
 
