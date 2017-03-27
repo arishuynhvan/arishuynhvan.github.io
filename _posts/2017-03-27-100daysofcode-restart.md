@@ -28,7 +28,7 @@ Charchawale for [makerwala.in](http://makerwala.in/)
 
 ### What I've achieved
 
-<iframe height='500' scrolling='no' title='Freelance Portfolio' src='//codepen.io/arishuynhvan/embed/RpBXBz/?height=265&theme-id=0&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='height: 50%;'>See the Pen <a href='http://codepen.io/arishuynhvan/pen/RpBXBz/'>Freelance Portfolio</a> by Aris Huynh (<a href='http://codepen.io/arishuynhvan'>@arishuynhvan</a>) on <a href='http://codepen.io'>CodePen</a>.
+<iframe height='300' scrolling='no' title='Freelance Portfolio' src='//codepen.io/arishuynhvan/embed/RpBXBz/?height=265&theme-id=0&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/arishuynhvan/pen/RpBXBz/'>Freelance Portfolio</a> by Aris Huynh (<a href='http://codepen.io/arishuynhvan'>@arishuynhvan</a>) on <a href='http://codepen.io'>CodePen</a>.
 </iframe>
 
 
