@@ -38,11 +38,19 @@ Charchawale for [makerwala.in](http://makerwala.in/)
 
 ### What's next?
 
-- Change the units of fonts on about page back to em or px according to w3schools tutorial since vw is very horrible for full page view
-- Update the form & buttons in my about page for collecting real email addresses & send clients' emails to me
+- Fix errors of the about page
 - Update my website titles for this repo (new title: T.An Elegant Tech)
+- Make about page the landing site of the domain link instead of the blog
 - Major revamp for the structure of this site
 - Post my portfolio on FB (in the far future when my other sites of portfolio are more ready)
+- Make this site progressive so I can view it on my phone
+- Find a more user-friendly way to edit the site
+
+#### Actionables on About Page errors
+
+- Change the units of fonts on about page back to em or px according to w3schools tutorial since vw is very horrible for full page view
+- Update the form & buttons in my about page for collecting real email addresses & send clients' emails to me
+- Stop the "contact" on navbar from being always in the hover state 
 
 ### Learning points
 
