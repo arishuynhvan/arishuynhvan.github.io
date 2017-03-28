@@ -13,7 +13,7 @@ Below are frameworks I tried out & the status of my attempts/ personal cons:
 - [PencilBlue](https://github.com/pencilblue/pencilblue) - mongodb, easy to set up, very elementary theme, has inbuilt comments & (unchecked) OAuth Google plugin
 - [KeystoneJS](https://github.com/keystonejs/keystone) - mongodb, less easy to set up, very elementary theme, lack OAuth Google Plugin, but repo has 9k+ stars (big community)
 - [Apostrophe](https://github.com/punkave/apostrophe) - beautiful, but I haven't set up locally, lack OAuth with Google
-- [Cody](https://github.com/jcoppieters/cody) - use mysql, may or may not work since I ran the wrong server: jenkins (3000) instead
+- [Cody](https://github.com/jcoppieters/cody) - use mysql, may or may not work since I ran the wrong server: jenkins (3000) instead. This was setup in my charchawale-keystone workspace on c9.io (yeah, the name :/) 
 
 Also, I attempted to use a few PHP frameworks:
 
