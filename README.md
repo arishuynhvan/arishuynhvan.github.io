@@ -64,7 +64,7 @@ Great reference for minimalistic, responsive theme: [Technology Advice](http://t
 - [ ] Post Timeline (display dates on the main blog site)
 - [ ] Display by trend/ Featured Posts/ Sort by popularity (main blog site) 
 
-* Note: create the branch for these features from the first commit prior to blog setup, pull from original jekyll-now repo frequently, rebase into master branch when ready for deploy *
+*Note: create the branch for these features from the first commit prior to blog setup, pull from original jekyll-now repo frequently, rebase into master branch when ready for deploy*
 
 Reference: 
 
