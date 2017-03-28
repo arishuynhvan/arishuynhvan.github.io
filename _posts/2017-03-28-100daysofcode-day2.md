@@ -13,7 +13,7 @@ Below are frameworks I tried out & the status of my attempts/ personal cons:
 - [PencilBlue](https://github.com/pencilblue/pencilblue) - mongodb, easy to set up, very elementary theme, has inbuilt comments & (unchecked) OAuth Google plugin
 - [KeystoneJS](https://github.com/keystonejs/keystone) - mongodb, less easy to set up, very elementary theme, lack OAuth Google Plugin, but repo has 9k+ stars (big community)
 - [Apostrophe](https://github.com/punkave/apostrophe) - beautiful, but I haven't set up locally, lack OAuth with Google
-- [Cody](https://github.com/jcoppieters/cody) - use mysql, but not working
+- [Cody](https://github.com/jcoppieters/cody) - use mysql, may or may not work since I ran the wrong server: jenkins (3000) instead
 
 Also, I attempted to use a few PHP frameworks:
 
@@ -64,3 +64,4 @@ Check among the js files in the root folder (normally config.js or server.js), c
 2. Implement onsite registration for both Keystone & PencilBlue (esp if Google OAuth works)
 3. Learn how to make a new theme for the CMS framework of choice
 4. Learn how to make a new plugin (QR login) for the CMS framework of choice
+5. Figure out how to stop my jenkins server from running? Probably by restarting my laptop after a super long duration
