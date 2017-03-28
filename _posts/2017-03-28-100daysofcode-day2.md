@@ -27,7 +27,7 @@ Also, I attempted to use a few PHP frameworks:
 
 Follow the [official guide](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/), then create a data folder in the folder of the new CMS application (preferably at root where the main js file for starting the application stays)
 
-Run `"C:\Program Files\MongoDB\Server\3.4\bin\mongod.exe" --dbpath data`
+Start the MongoDB server locally after installation `"C:\Program Files\MongoDB\Server\3.4\bin\mongod.exe" --dbpath data`
 
 ### Common errors
 
@@ -43,6 +43,11 @@ Mongoose connection "error" event fired with:
 ```
 
 Start the MongoDB server locally 
+
+```
+"C:\Program Files\MongoDB\Server\3.4\bin\mongod.exe" --dbpath data
+```
+
 
 #### Taken server port
 
