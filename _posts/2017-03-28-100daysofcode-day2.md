@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #100doc Day 2
+title: Day 2 #100doc
 ---
 
 ## Today's focus
