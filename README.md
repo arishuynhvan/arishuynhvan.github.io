@@ -18,6 +18,7 @@ My super simple basic blog about learning to code
 
 
 # Backlog
+
 - [ ] Redesign my theme
     - [ ] Drop down menu for navigation bar
     - [ ] Responsive menu bar with all tabs shrink into hidden side menu <sup>2</sup>
@@ -35,17 +36,21 @@ My super simple basic blog about learning to code
 - [ ] Progressive enhancement for mobile platforms
 - [ ] Test against Accessibility checklist
 - [ ] Enhance accessibility 
+- [ ] Post Timeline (display dates on the main blog site)
+- [ ] Display by trend/ Featured Posts/ Sort by popularity (main blog site) 
 
 Great reference for minimalistic, responsive theme: [Technology Advice](http://technologyadvice.com/)
 
 
 ## Features
 ### Jekyll Now
+
 - [x] Links to personal profiles on social media
 - [x] Disqus
 - [ ] Analytics
 
 ### New
+
 - [ ] Post thumbnails <sup>1</sup>
 - [ ] Project Gallery 
 - [ ] Add a Feed (RSS or Atom) and automated updates for new posts on some social media site (Twitter/FB) <sup>1</sup>
@@ -56,7 +61,10 @@ Great reference for minimalistic, responsive theme: [Technology Advice](http://t
 - [ ] 100% Accessible
 - [ ] Progressive
 - [ ] Onsite login & post creation
+- [ ] Post Timeline (display dates on the main blog site)
+- [ ] Display by trend/ Featured Posts/ Sort by popularity (main blog site) 
 
+* Note: create the branch for these features from the first commit prior to blog setup, pull from original jekyll-now repo frequently, rebase into master branch when ready for deploy *
 
 Reference: 
 
