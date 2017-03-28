@@ -65,3 +65,4 @@ Check among the js files in the root folder (normally config.js or server.js), c
 3. Learn how to make a new theme for the CMS framework of choice
 4. Learn how to make a new plugin (QR login) for the CMS framework of choice
 5. Figure out how to stop my jenkins server from running? Probably by restarting my laptop after a super long duration
+6. Check which one allows easy video upload, preferably from URL of videos in Google drive 
