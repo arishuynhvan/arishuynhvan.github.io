@@ -61,3 +61,6 @@ Check among the js files in the root folder (normally config.js or server.js), c
 ### What's next
 
 1. Try installing Google OAuth [plugin](https://pencilblue.org/plugins/view/5616b3f82f320df86ff3a13f) for pencilblue
+2. Implement onsite registration for both Keystone & PencilBlue (esp if Google OAuth works)
+3. Learn how to make a new theme for the CMS framework of choice
+4. Learn how to make a new plugin (QR login) for the CMS framework of choice
