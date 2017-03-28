@@ -15,7 +15,7 @@ Below are frameworks I tried out & the status of my attempts/ personal cons:
 - [Apostrophe](https://github.com/punkave/apostrophe) - beautiful, but I haven't set up locally, lack OAuth with Google
 - [Cody](https://github.com/jcoppieters/cody) - use mysql, but not working
 
-Also, attempted to use a few PHP frameworks:
+Also, I attempted to use a few PHP frameworks:
 
 - [Open Source Social Network](https://www.opensource-socialnetwork.org/) - php steep learning curve, unable to install locally
 - [Wordpress.org](https://wordpress.org/) - plugins are not working, PHP steep learning curve
