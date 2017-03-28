@@ -25,7 +25,7 @@ Also, I attempted to use a few PHP frameworks:
 
 ### Set up MongoDB for windows:
 
-Follow the [official guide](), then create a data folder in the folder of the new CMS application (preferably at root where the main js file for starting the application stays)
+Follow the [official guide](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/), then create a data folder in the folder of the new CMS application (preferably at root where the main js file for starting the application stays)
 
 Run `"C:\Program Files\MongoDB\Server\3.4\bin\mongod.exe" --dbpath data`
 
