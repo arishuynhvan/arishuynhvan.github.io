@@ -23,6 +23,12 @@ Also, I attempted to use a few PHP frameworks:
 
 ## Learning points
 
+- Free domains for student:
+ - [Namecheap](https://www.namecheap.com/) - Only for certain US, Canada, Australia universities; free .me domains
+ - [get.tech](http://get.tech/students/) - Free for all emails with ".edu"
+ 
+Most of these free domains are only free for the 1st year, while the yearly fee is quite high. :( 
+
 ### Set up MongoDB for windows:
 
 Follow the [official guide](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/), then create a data folder in the folder of the new CMS application (preferably at root where the main js file for starting the application stays)
