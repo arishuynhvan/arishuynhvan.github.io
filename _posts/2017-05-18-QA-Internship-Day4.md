@@ -41,10 +41,12 @@ This is the official API from Facebook that allows third-party apps to read and 
 **4. Go to [Graph API Explorer](https://developers.facebook.com/tools/explorer/), change the application dropdown to the target app**. 90% of the time this step is missed, so please remember to choose the correct app before proceeding to the next step.
 5. Get your access token ready as well.
 6. Use the following POST request in your automation script to create a new test user
-https://graph.facebook.com/%@/accounts/test-users?installed=true&name={any-valid-name}locale=en_US&permissions=email,user_birthday,publish_actions&access_token={app-access-token}
+
+>https://graph.facebook.com/%@/accounts/test-users?installed=true&name={any-valid-name}locale=en_US&permissions=email,user_birthday,publish_actions&access_token={app-access-token}
 
 To just play around on Graph API Explorer, set the request type to POST for any version, then paste the string below in, sustituting in the correct values as well.
-{app-id}/accounts/test-users?installed=true&name={any-valid-name}&locale=en_us&permissions=email,user_birthday,publish_actions&access_token={app-access-token}
+
+>{app-id}/accounts/test-users?installed=true&name={any-valid-name}&locale=en_us&permissions=email,user_birthday,publish_actions&access_token={app-access-token}
 
 All the {} brackets shouldn't be there when the string above is replaced with real values.
 
@@ -58,3 +60,8 @@ References:
 
 #### Automate test user deletion with Graph API
  
+Use [DELETE request](https://developers.facebook.com/docs/graph-api/reference/v2.9/test-user#deleting) with test-user-id to delete the user.
+
+#### Automate association of test user with another app
+
+Could we do this without app-id of that other app?
