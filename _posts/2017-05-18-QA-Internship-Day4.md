@@ -1,6 +1,6 @@
 ---
 layout: post
-title: QA Internship Day 4 Create New Facebook Test Users with Graph API
+title: QA Internship Day 4 - Test Users Graph API
 ---
 
 ## Objectives
