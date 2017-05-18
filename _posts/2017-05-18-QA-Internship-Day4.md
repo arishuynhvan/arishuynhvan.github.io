@@ -64,4 +64,4 @@ Use [DELETE request](https://developers.facebook.com/docs/graph-api/reference/v2
 
 #### Automate association of test user with another app
 
-Could we do this without app-id of that other app?
+Could this be done without app-id of that other app?
