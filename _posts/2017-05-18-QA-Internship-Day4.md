@@ -52,9 +52,12 @@ All the {} brackets shouldn't be there when the string above is replaced with re
 
 Feel free to adjust the POST request according to the syntax of your framework.
 
-References:
+**References:**
+
 [The 1st answer to this Stack Overflow question](http://stackoverflow.com/questions/24046772/how-to-add-test-friends-to-facebook-test-users-programmatically-using-facebook-i#)
+
 [More about the Graph API request fields](https://developers.facebook.com/docs/graph-api/reference/app/accounts/test-users#publish)
+
 [More about Graph API permission list](https://developers.facebook.com/docs/facebook-login/permissions/)
 
 
