@@ -10,16 +10,15 @@ Today, I'll need to further come out with test scripts for automating the ShopBa
 ## Plan
 
 1. First, create test users with graph API (not manually)
-2. Check if I can login with my app via this test user!!!!!!!! (*)
+2. When creating FB test user for an app, the FB test user will be able to login to that app (permission is given by default)
 3. Write the script if 2 is verified
-   a. Automate test user creation while storing essential info (app id, secret, access token, login URL, User ID, email & password) in the scripts.
+   a. Automate test user creation while storing essential info (app id, secret, access token, login URL, User ID, email & password) in the scripts. Could this be done automatically with wdio or nodejs?
    b. Automate test user login on ShopBack. 
    c. Check if user is added in ShopBack's database
    d. Automate test user deletion with Graph API, to avoid reaching the 2000 test user limit.
 
 (*) To achieve this, I may need to build a simple form with FB authorization, using MongoDB for storing users, and deploy on heroku site. Then I'll need to write an automatic test script for this simple site, and substitute my app info like ID, access token, app secret with those of ShopBack. Since a FB app-ID is required for FB login through [FB SDK for JS] (https://developers.facebook.com/docs/javascript/quickstart), I should be able to get these info.
 
-Question for 3a: How can I allow test user to see other apps? If it's possible, I can just directly make my test users visible to ShopBack without getting the FB account for ShopBack... But I still may need FB appID for ShopBack
 
 ### [Graph API](https://developers.facebook.com/docs/graph-api)
 
@@ -68,7 +67,3 @@ Feel free to adjust the POST request according to the syntax of your framework.
 #### Automate test user deletion with Graph API
  
 Use [DELETE request](https://developers.facebook.com/docs/graph-api/reference/v2.9/test-user#deleting) with test-user-id to delete the user.
-
-#### Automate association of test user with another app
-
-Could this be done without app-id of that other app?
