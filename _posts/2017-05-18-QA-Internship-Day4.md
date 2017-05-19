@@ -38,15 +38,19 @@ This is the official API from Facebook that allows third-party apps to read and 
 1. Login to [FB for developers](https://developers.facebook.com/) page with a real FB account.
 2. Go to MyApps, choose the target app or create a new one.
 3. Get AppID and App Secret ready.
-**4. Go to [Graph API Explorer](https://developers.facebook.com/tools/explorer/), change the application dropdown to the target app**. 90% of the time this step is missed, so please remember to choose the correct app before proceeding to the next step.
+4. **Go to [Graph API Explorer](https://developers.facebook.com/tools/explorer/), change the application dropdown to the target app**. 90% of the time this step is missed, so please remember to choose the correct app before proceeding to the next step.
 5. Get your access token ready as well.
 6. Use the following POST request in your automation script to create a new test user
 
->https://graph.facebook.com/%@/accounts/test-users?installed=true&name={any-valid-name}locale=en_US&permissions=email,user_birthday,publish_actions&access_token={app-access-token}
+```
+https://graph.facebook.com/{app-id}/accounts/test-users?installed=true&name={any-valid-name}locale=en_US&permissions=email,user_birthday,publish_actions&access_token={app-access-token}
+```
 
 To just play around on Graph API Explorer, set the request type to POST for any version, then paste the string below in, sustituting in the correct values as well.
 
->{app-id}/accounts/test-users?installed=true&name={any-valid-name}&locale=en_us&permissions=email,user_birthday,publish_actions&access_token={app-access-token}
+```
+{app-id}/accounts/test-users?installed=true&name={any-valid-name}&locale=en_us&permissions=email,user_birthday,publish_actions&access_token={app-access-token}
+```
 
 All the {} brackets shouldn't be there when the string above is replaced with real values.
 
