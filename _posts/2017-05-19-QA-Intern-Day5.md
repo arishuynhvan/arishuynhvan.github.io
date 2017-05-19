@@ -11,11 +11,11 @@ title: QA Internship Day 5 - Team Lunch & Cool Shots
 
 ### What's next?
 
-1. MUST automate HTTP request communication using webdriverio or NodeJS with Graph API for
-  1. FB test user creation
-  2. retrieval of new test FB user's credentials
-  3. transfer of such info to FB login test scripts (wdio)
-  4. deletion of that new FB test user
+1. MUST automate HTTP request communication using webdriverio or NodeJS with Graph API for:
+  a. FB test user creation
+  b. retrieval of new test FB user's credentials
+  c. transfer of such info to FB login test scripts (wdio)
+  d. deletion of that new FB test user
 2. MUST complete 14 test cases for FB login
 3. Freaking finish the rest of the test suite without trial running them first (problem with some properties to be set in DB for test accounts). I really hate it man, could qa just get access to a secure API for manipulating DB ?????? Right now we have to keep asking dev to change info in DB for our test accounts
 
