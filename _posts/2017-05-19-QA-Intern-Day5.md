@@ -40,3 +40,4 @@ Well, this leaving intern is actually awesome... he gave me the encouragement in
 
 I dunno how to respond. Just hope that his good wishes for me will come true. Or maybe I will try to maintain strength to make it come true :-?
 
+Honestly, I feel like I'm gonna work this weekend
