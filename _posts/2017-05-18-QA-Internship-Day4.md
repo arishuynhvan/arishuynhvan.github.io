@@ -1,7 +1,8 @@
 ---
 layout: post
-title: QA Internship Day 4 - Test Users Graph API
+title: Get Started with Test Users on Graph API
 ---
+# QA Internship Day 4
 
 ## Objectives
 
