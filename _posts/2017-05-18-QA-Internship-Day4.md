@@ -2,13 +2,13 @@
 layout: post
 title: Get Started with Test Users on Graph API
 ---
-# QA Internship Day 4
+## QA Internship Day 4
 
-## Objectives
+### Objectives
 
 Today, I'll need to further come out with test scripts for automating the ShopBack's login process with FB accounts
 
-## Plan
+### Plan
 
 1. First, create test users with graph API (not manually)
 2. When creating FB test user for an app, the FB test user will be able to login to that app (permission is given by default)
@@ -21,7 +21,7 @@ Today, I'll need to further come out with test scripts for automating the ShopBa
 (*) To achieve this, I may need to build a simple form with FB authorization, using MongoDB for storing users, and deploy on heroku site. Then I'll need to write an automatic test script for this simple site, and substitute my app info like ID, access token, app secret with those of ShopBack. Since a FB app-ID is required for FB login through [FB SDK for JS] (https://developers.facebook.com/docs/javascript/quickstart), I should be able to get these info.
 
 
-### [Graph API](https://developers.facebook.com/docs/graph-api)
+#### [Graph API](https://developers.facebook.com/docs/graph-api)
 
 This is the official API from Facebook that allows third-party apps to read and write to the Facebook social graph. 
 
