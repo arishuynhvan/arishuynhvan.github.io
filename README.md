@@ -1,7 +1,7 @@
 # T.An.Dev
 My super simple basic blog about learning to code
 
-# Sprint 2: 28 Mar - 7 Apr
+# Sprint 2: 
 
 - [ ] Fix about.html errors of font responsiveness 
 - [x] Migrate current about.html to index.html
@@ -9,7 +9,7 @@ My super simple basic blog about learning to code
 - [ ] Design logo for blog
 - [ ] Set up share buttons (Twitter, Facebook, G+) <sup>1</sup>
 
-# Sprint 1: 6 - 10 Feb
+# Sprint 1: 
 
 - [x] Redesign my landing page (hi-res wireframe)
 - [x] Code landing page on Codepen
